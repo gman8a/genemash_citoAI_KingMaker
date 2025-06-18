@@ -1,16 +1,18 @@
-#===============================================================================
-# Filename: Intracranial_Arteriovenous_Malformations_20250618_084101.md
-# Date: June 18, 2025
-# Authors: Gary Argraves, Claude (Anthropic)
-# Purpose: AVM study with just a few gene.
-# Usage: Copy BEGIN/END sections for forum posting
-# Features: geneMash class-based markers, dual format archive
-# Class: KingMaker
-# Companion: Intracranial_Arteriovenous_Malformations.pdf (rich presentation format)
-# Project: Atherosclerosis_Study
-# Source: Intracranial_Arteriovenous_Malformations.txt
-#===============================================================================
-# BEGIN-OF-FILE: Intracranial_Arteriovenous_Malformations_20250618_084101.md
+<!--
+===============================================================================
+Filename: Intracranial_Arteriovenous_Malformations_20250618_093210.md
+Date: June 18, 2025
+Authors: Gary Argraves, Claude (Anthropic)
+Purpose: AVM study with just a few gene.
+Usage: Copy BEGIN/END sections for forum posting
+Features: geneMash class-based markers, dual format archive
+Class: KingMaker
+Companion: Intracranial_Arteriovenous_Malformations_20250618_093210.pdf (rich presentation format)
+Project: Atherosclerosis_Study
+Source: Intracranial_Arteriovenous_Malformations.txt
+===============================================================================
+BEGIN-OF-FILE: Intracranial_Arteriovenous_Malformations_20250618_093210.md
+-->
 
 ----------- BEGIN GENEMASH_KINGMAKER~ Intracranial Arteriovenous Malformations, a short study -----------------------
 
@@ -19,7 +21,7 @@ Dialog Title: Intracranial Arteriovenous Malformations, a short study
 Publisher: Gary Argraves Research
 Project: Atherosclerosis_Study
 Class: KingMaker
-Archive Date: 2025-06-18 08:41:01
+Archive Date: 2025-06-18 09:32:10
 Forum Format: geneMash Compatible
 Description: AVM study with just a few gene.
 Source: Claude Dialog Session
@@ -230,17 +232,17 @@ Mission accomplished: Found what was always there but never connected.
 ----------- END GENEMASH_KINGMAKER~ Intracranial Arteriovenous Malformations, a short study -----------------------
 
 # Dual Format Archive
-Text Format: Intracranial_Arteriovenous_Malformations_20250618_084101.md (this file - forum ready, geneMash markers)
-Rich Format: Intracranial_Arteriovenous_Malformations.pdf (create via LibreOffice Writer → Export as PDF)
+Text Format: Intracranial_Arteriovenous_Malformations_20250618_093210.md (this file - forum ready, geneMash markers)
+Rich Format: Intracranial_Arteriovenous_Malformations_20250618_093210.pdf (create via LibreOffice Writer → Export as PDF)
 
 # Metadata for GitHub
-Dialog_ID: Intracranial_Arteriovenous_Malformations_20250618_084101
+Dialog_ID: Intracranial_Arteriovenous_Malformations_20250618_093210
 Archive_Purpose: Forum_Sharing + Rich_Presentation
 Format_Type: Dual_Track (geneMash_Compatible_Text + Rich_PDF)
 Class: KingMaker
-Preservation_Date: 2025-06-18T13:41:01Z
+Preservation_Date: 2025-06-18T14:32:10Z
 Project: Atherosclerosis_Study
 Source_File: Intracranial_Arteriovenous_Malformations.txt
 Description: AVM study with just a few gene.
 
-# END-OF-FILE: Intracranial_Arteriovenous_Malformations_20250618_084101.md
+# END-OF-FILE: Intracranial_Arteriovenous_Malformations_20250618_093210.md

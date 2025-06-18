@@ -32,8 +32,8 @@ Master Index: github.com/genemash/user-index
     <td>2025-06-18</td>
     <td>Intracranial Arteriovenous Malformations, a short study</td>
     <td><code>KingMaker</code></td>
-    <td><a href="./Intracranial_Arteriovenous_Malformations_20250618_084101.md">📝 .md</a></td>
-    <td><a href="./Intracranial_Arteriovenous_Malformations.pdf">📄 .pdf</a></td>
+    <td><a href="./Intracranial_Arteriovenous_Malformations_20250618_093210.md">📝 Intracranial_Arteriovenous_Malformations_20250618_093210.md</a></td>
+    <td><a href="./Intracranial_Arteriovenous_Malformations_20250618_093210.pdf">📄 Intracranial_Arteriovenous_Malformations_20250618_093210.pdf</a></td>
     <td>AVM study with just a few gene.</td>
     <td><code>GENEMASH_KINGMAKER~ Intracranial Arteriovenous Malformations, a short study</code></td>
   </tr>
