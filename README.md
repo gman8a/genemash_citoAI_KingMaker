@@ -22,7 +22,6 @@ Master Index: github.com/genemash/user-index
     <th>Title</th>
     <th>Class</th>
     <th>Text Format</th>
-    <th>PDF Format</th>
     <th>Description</th>
     <th>geneMash Marker</th>
   </tr>
@@ -33,9 +32,31 @@ Master Index: github.com/genemash/user-index
     <td>Intracranial Arteriovenous Malformations, a short study</td>
     <td><code>KingMaker</code></td>
     <td><a href="./Intracranial_Arteriovenous_Malformations_20250618_095908.md">📝 Intracranial Arteriovenous Malformations 20250618 095908.md</a></td>
-    <td><a href="./Intracranial_Arteriovenous_Malformations_20250618_095908.pdf">📄 Intracranial Arteriovenous Malformations 20250618 095908.pdf</a></td>
     <td>AVM study with just a few gene.</td>
     <td><code>GENEMASH_KINGMAKER~ Intracranial Arteriovenous Malformations, a short study</code></td>
+  </tr>
+  <tr>
+    <td>2025-06-18</td>
+    <td>BLC-2 50 abstracts</td>
+    <td><code>KingMaker</code></td>
+    <td><a href="./BLC-2_Tier2_Analysis_20250618_135957.md">📝 BLC-2 Tier2 Analysis 20250618 135957.md</a></td>
+    <td><code>GENEMASH_KINGMAKER~ BLC-2 50 abstracts</code></td>
+  </tr>
+  <tr>
+    <td>2025-06-18</td>
+    <td>BLC-2 50 abstract cross analysis</td>
+    <td><code>KingMaker</code></td>
+    <td><a href="./BLC-2_Tier2_Analysis_20250618_141754.md">📝 BLC-2 Tier2 Analysis 20250618 141754.md</a></td>
+    <td>Preserved Claude dialog for forum sharing</td>
+    <td><code>GENEMASH_KINGMAKER~ BLC-2 50 abstract cross analysis</code></td>
+  </tr>
+  <tr>
+    <td>2025-06-18</td>
+    <td>BLC-2 50 abstract cross analysis</td>
+    <td><code>KingMaker</code></td>
+    <td><a href="./BLC-2_Tier2_Analysis_20250618_200919.md">📝 BLC-2 Tier2 Analysis 20250618 200919.md</a></td>
+    <td>Preserved Claude dialog for forum sharing</td>
+    <td><code>GENEMASH_KINGMAKER~ BLC-2 50 abstract cross analysis</code></td>
   </tr>
 </tbody>
 </table>
